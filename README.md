@@ -1,8 +1,9 @@
 # Spotitech
 
 This project is based around the Spotitech API (available here: https://hub.docker.com/r/matfire/spotitech). It is an online audio player where you can discover artists and listen to their albums.
-<img src="./img/home.png" alt="home screenshot" width="738">
-<img src="./img/album.png" alt="home screenshot" width="738">
+<img src="./img/home.png" alt="home screenshot" >
+<img src="./img/album.png" alt="home screenshot" >
+
 It is my first React website ever !
 
 ### Project restrictions
