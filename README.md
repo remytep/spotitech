@@ -32,6 +32,11 @@ If you go to http://localhost:8000/api you should see the SwaggerUI interface an
 
 Go into the "spotitech" folder, and run
 ```sh
+npm install
+```
+
+When done, run
+```sh
 npm run start
 ```
 
